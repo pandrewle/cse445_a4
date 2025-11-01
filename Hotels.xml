@@ -35,7 +35,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.9">
-    <Name>Hampton Inn & Suites Phoenix Chandler-Fashion Center</Name>
+    <Name>Hampton Inn &amp; Suites Phoenix Chandler-Fashion Center</Name>
     <Phone>480-963-3737</Phone>
     <Address NearestAirport="Phoenix Sky Harbor">
       <Number>2435</Number>
@@ -57,7 +57,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="4.2">
-    <Name>Drury Inn & Suites Phoenix Chandler</Name>
+    <Name>Drury Inn &amp; Suites Phoenix Chandler</Name>
     <Phone>480-705-0800</Phone>
     <Address NearestAirport="Phoenix-Mesa Gateway">
       <Number>1140</Number>
@@ -68,7 +68,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.7">
-    <Name>La Quinta Inn & Suites by Wyndham Phoenix Chandler</Name>
+    <Name>La Quinta Inn &amp; Suites by Wyndham Phoenix Chandler</Name>
     <Phone>480-899-3500</Phone>
     <Address NearestAirport="Phoenix Sky Harbor">
       <Number>1230</Number>
