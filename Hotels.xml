@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+  <Hotel Rating="4.3">
+    <Name>Hilton Phoenix Chandler</Name>
+    <Phone>480-293-5000</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>2929</Number>
+      <Street>West Frye Road</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>AC Hotel by Marriott Phoenix Chandler</Name>
+    <Phone>480-899-6000</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>1931</Number>
+      <Street>W Frye Road</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85224</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Residence Inn Phoenix Chandler Fashion Center</Name>
+    <Phone>480-763-8989</Phone>
+    <Phone>800-331-3131</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>3480</Number>
+      <Street>North Arizona Avenue</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85225</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <Name>Hampton Inn & Suites Phoenix Chandler-Fashion Center</Name>
+    <Phone>480-963-3737</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>2435</Number>
+      <Street>W Frye Road</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85224</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.8">
+    <Name>Home2 Suites by Hilton Phoenix Chandler</Name>
+    <Phone>480-963-1400</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>2200</Number>
+      <Street>W Chandler Blvd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85224</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.2">
+    <Name>Drury Inn & Suites Phoenix Chandler</Name>
+    <Phone>480-705-0800</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>1140</Number>
+      <Street>North 54th Street</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.7">
+    <Name>La Quinta Inn & Suites by Wyndham Phoenix Chandler</Name>
+    <Phone>480-899-3500</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>1230</Number>
+      <Street>West Chandler Boulevard</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85224</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Courtyard by Marriott Phoenix Chandler/Fashion Center</Name>
+    <Phone>480-792-9050</Phone>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
+      <Number>2300</Number>
+      <Street>W Chandler Blvd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85224</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.6">
+    <Name>Comfort Inn Chandler - Phoenix South</Name>
+    <Phone>480-855-2000</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>1555</Number>
+      <Street>W Chandler Blvd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>Hyatt Place Phoenix/Chandler-Fashion Center</Name>
+    <Phone>480-782-8800</Phone>
+    <Address NearestAirport="Scottsdale Airport">
+      <Number>1600</Number>
+      <Street>W Chandler Blvd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85224</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
