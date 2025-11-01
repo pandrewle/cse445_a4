@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema">
+  <element name="Hotels">
+    <complexType>
+      <sequence>
+        <element name="Hotel" maxOccurs="unbounded">
+          <complexType>
+            <sequence>
+              <element name="Name" type="string"/>
+              <element name="Phone" type="string" maxOccurs="unbounded"/>
+              <element name="Address">
+                <complexType>
+                  <sequence>
+                    <element name="Number" type="string"/>
+                    <element name="Street" type="string"/>
+                    <element name="City" type="string"/>
+                    <element name="State" type="string"/>
+                    <element name="Zip" type="string"/>
+                  </sequence>
+                  <attribute name="NearestAirport" type="string" use="required"/>
+                </complexType>
+              </element>
+            </sequence>
+            <attribute name="Rating" type="decimal" use="optional"/>
+          </complexType>
+        </element>
+      </sequence>
+    </complexType>
+  </element>
+</schema>
